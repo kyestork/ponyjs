@@ -1,2 +1,2 @@
 # pony.js
-A small "framework" thing in Javascript
+A lightweight javascript utility used on PonyCrush.com
